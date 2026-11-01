@@ -1,0 +1,31 @@
+.contact_main{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+    width: 100%;
+    box-sizing: border-box;
+    padding: 0 40px;
+    gap: 20px;
+}
+
+.div_left{
+    gap: 10px;
+}
+
+.contact{
+    margin: 0;
+}
+.contact p{
+    font-size: 15px;
+
+    opacity: 90%;
+}
+
+.div_right{
+    margin-top: 20px;
+}
+img{
+    padding: 40px;
+    max-width: 500px;
+}

@@ -1,0 +1,23 @@
+
+.home_div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    width: 100vw;
+    gap: 20px;
+}
+.home_div img{
+    height: 400px;
+    width: 90vw;
+}
+
+.div_p{
+    max-width: 60vw;
+    margin: 0 auto;
+}
+.div_p p{
+    text-align: center;
+
+}
